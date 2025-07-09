@@ -1,0 +1,5 @@
+2025-04-08 17:24:10,124 - DEBUG - This is a debug log.
+2025-04-08 17:24:10,125 - INFO - This is an info log.
+2025-04-08 17:24:10,125 - WARNING - This is a warning log.
+2025-04-08 17:24:10,125 - ERROR - This is an error log.
+2025-04-08 17:24:10,125 - CRITICAL - This is a critical log.
